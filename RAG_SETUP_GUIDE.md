@@ -30,7 +30,7 @@ source rag-env/bin/activate
 
 Install all necessary libraries:
 
-pip install llama-index llama-index-llms-openai llama-index-embeddings-openai
+pip install -r requirements.txt
 
 ---
 
